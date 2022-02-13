@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: cursive;
+}
+html {
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(to left top, rgba(242,140,102,0), rgba(242,140,102,1));
+    background-repeat: no-repeat;
+}
+#hat{
+    padding-top: 5vh;  
+}
+#hat img{
+    width: 25ex;
+
+}
+#numbers{
+    padding-top: 3vh;
+    font-size: 14px;
+    opacity: 0.6;
+}
+#write{
+    padding-top: 5vh;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#inputs{
+    padding-top: 5vh;
+}
+#title{
+    padding-top: 10vh;
+    font-size: 1.2em;
+    word-spacing: 0.6em;
+}
+#değer{
+    width: 11em;
+    height: 2.5ch;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color: white;
+}
+#değer:focus{
+    outline: 0;
+}
+#check{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 4px;
+    font-size: 0.7em;
+    border-radius: 5px;
+    cursor: pointer;
+}
