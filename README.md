@@ -1,5 +1,5 @@
 # FindTheNumberGame
-https://runotr13.github.io/FindTheNumberGame/
+# https://runotr13.github.io/FindTheNumberGame/
 
 Your company has recently started on a project that aims to create a find the number game. So you and your colleagues have started to work on the project.
 Each time the application is opened, it will keep a random number between 1-100 in the background.
